@@ -2,11 +2,7 @@ TG： https://t.me/isdapp
 
 # Web3|Dapp|Defi|质押|NFT|钱包浏览器|Swap|区块链源码
 
-演示地址：http://dapp1kj.zzsoft.whttp.cn/
-
-admin
-
-000000
+演示地址： https://dappkjone.waps.eu.org/kj/
 
 功能列表：
 1：Dapp项目。
